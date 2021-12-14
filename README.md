@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ## About Me
 
 - Blog : [My Github Blog](https://daedaen.github.io.)
-- https://www.notion.so/201826888/Print-Hello-I-am-c3caa2d30f6940b79ce99694c52c7815
+- Notion : https://bit.ly/3oSrIS1
 ---
 [![daedaem's GitHub stats](https://github-readme-stats.vercel.app/api?username=daedaem)](https://github.com/daedaem/github-readme-stats)
