@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- Blog : [My Github Blog](https://daedaen.github.io.)
+<!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
 - Notion : https://bit.ly/3oSrIS1
 ---
 [![daedaem's GitHub stats](https://github-readme-stats.vercel.app/api?username=daedaem)](https://github.com/daedaem/github-readme-stats)
