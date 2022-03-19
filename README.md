@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 # Hi, I'm JOE 👋
 
 
-
 ## ☎️ Contact info.
 
-------
 
 **📧 Email address**
 
