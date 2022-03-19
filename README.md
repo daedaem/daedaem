@@ -36,15 +36,6 @@ Here are some ideas to get you started:
 
 [@ sun_castle_8685](http://www.instagram.com/sun_castle_8685)
 
-## 🤵 About_Me
-
-- 🌱 I'm currently learning front-end development
-- 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
-- 📝 I write articles on [indietutes.com](https://indietutes.com)
-- 💬 Talk to me about Technology, Space and Politics
-- 😄 Pronouns: He/Him
-- 👯 I’m looking to collaborate on Web development
-- ☕ I don't use Caffeine
 
 ## 🌍 Lets_Connect_On
 
