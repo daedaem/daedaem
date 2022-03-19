@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 [@ sun_castle_8685](http://www.instagram.com/sun_castle_8685)
 
 
-## 🌍 Lets_Connect_On
-
-- [Instagram - @sun_castle_8685](https://www.instagram.com/sun_castle_8685/)
-
 ## 🚀 My_Skills
 
 > _Tools, languages, and other things that I like to work with_
