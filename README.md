@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **daedaem/daedaem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -56,6 +54,10 @@ Here are some ideas to get you started:
 
 > _Tools, languages, and other things that I like to work with_
 
+## Blog
+<!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
+- Notion : https://bit.ly/3oSrIS1
+---
 **Programming Languages**
 
 <table>
@@ -192,7 +194,3 @@ Here are some ideas to get you started:
 
 Credit: [daedaem](https://github.com/daedaem)  
 Last Edited on: 03/20/2022
-<!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
-- Notion : https://bit.ly/3oSrIS1
----
-[![daedaem's GitHub stats](https://github-readme-stats.vercel.app/api?username=daedaem)](https://github.com/daedaem/github-readme-stats)
