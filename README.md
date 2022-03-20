@@ -34,11 +34,6 @@ Here are some ideas to get you started:
 
 [@ sun_castle_8685](http://www.instagram.com/sun_castle_8685)
 
-
-## 🚀 My_Skills
-
-> _Tools, languages, and other things that I like to work with_
-
 ## Blog
 <!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
 - Notion : https://bit.ly/3oSrIS1
