@@ -164,12 +164,12 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daedaem&theme=vue&langs_count=15&layout=compact&hide_border=true)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=daedaem&theme=vue&hide_border=true)
 
 <a href="https://solved.ac/tg8685">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685">
 </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=daedaem&theme=vue&hide_border=true)
 
 ---
 
