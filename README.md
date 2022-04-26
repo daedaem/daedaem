@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me
 # Hi, I'm JOE 👋
-  <div class="d-flex justify-content-center align-items-center">
+<div style="justify-content: center; display: flex; align-items: center">
     <div style="padding: 10px 10px 10px 10px">
       <img
         src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3026308a-15e2-4280-959f-950c9c427265/_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220426%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220426T142319Z&X-Amz-Expires=86400&X-Amz-Signature=6423c24d49d42505ea86debe3aef7cba9074f2f471997b92a2b68a0d4e451690&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22_.jpg%22&x-id=GetObject"
