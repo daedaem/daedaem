@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## About Me
 # Hi, I'm JOE 👋
   
-<!-- ## ☎️ Contact info.
+## ☎️ Contact info.
 
 **📧 Email address**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
   </div>
   </div>
- -->
+
 ## Blog
 <!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
 - Notion : https://bit.ly/3oSrIS1
