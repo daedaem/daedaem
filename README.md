@@ -61,6 +61,12 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/ alt="Vuejs" />
+      </a>
+      <br>Vue.js
+    </td>
       <td align="center" width="96">
       <a href="#Django">
               <img width="40"/ src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
@@ -68,22 +74,16 @@ Here are some ideas to get you started:
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/ alt="Vuejs" />
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
       </a>
-      <br>Vue.js
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
       </a>
       <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
     </td>
   </tr>
 </table>
@@ -164,7 +164,7 @@ Here are some ideas to get you started:
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daedaem&theme=vue&langs_count=15&layout=compact&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=daedaem&theme=vue&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=daedaem&theme=vue&hide_border=true) -->
 
 <a href="https://solved.ac/tg8685">
   <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685">
