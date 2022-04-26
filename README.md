@@ -23,9 +23,8 @@ Here are some ideas to get you started:
         style="width: 600px"
       />
     </div>
-    <div></div>
-  </div>
-
+    <div>
+  
 ## ☎️ Contact info.
 
 
@@ -42,6 +41,9 @@ Here are some ideas to get you started:
 **📷 instagram**
 
 [@ sun_castle_8685](http://www.instagram.com/sun_castle_8685)
+
+  </div>
+  </div>
 
 ## Blog
 <!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
