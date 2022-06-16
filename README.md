@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ## Blog
 <!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
+- Portfolio : [Portfolio](https://daedaen.github.io.)
 - Notion : https://bit.ly/3oSrIS1
 ---
 **Programming Languages**
@@ -162,10 +163,6 @@ Here are some ideas to get you started:
 ## 📈 Github_Stats
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daedaem&theme=vue&langs_count=15&layout=compact&hide_border=true)
-
-<a href="https://solved.ac/tg8685">
-  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685">
-</a>
 
 
 ---
