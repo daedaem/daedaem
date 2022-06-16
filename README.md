@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Blog
 <!-- - Blog : [My Github Blog](https://daedaem.github.io.) -->
-- Portfolio : [Portfolio](https://daedaem.github.io.)
+- Portfolio : [Portfolio](https://daedaem.github.io/portfolio/)
 - Notion : https://bit.ly/3oSrIS1
 ---
 **Programming Languages**
