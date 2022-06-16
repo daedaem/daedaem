@@ -36,8 +36,8 @@ Here are some ideas to get you started:
   </div>
 
 ## Blog
-<!-- - Blog : [My Github Blog](https://daedaen.github.io.) -->
-- Portfolio : [Portfolio](https://daedaen.github.io.)
+<!-- - Blog : [My Github Blog](https://daedaem.github.io.) -->
+- Portfolio : [Portfolio](https://daedaem.github.io.)
 - Notion : https://bit.ly/3oSrIS1
 ---
 **Programming Languages**
