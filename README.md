@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Blog
 - Blog : [My Github Blog](https://daedaem.netlify.app/)
-- Portfolio : [Portfolio](https://daedaem.github.io/portfoilo/)
+- Portfolio : [Portfolio](https://daedaem.github.io/)
 - Notion : https://bit.ly/3oSrIS1
 ---
 **Programming Languages**
