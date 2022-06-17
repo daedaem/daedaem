@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   </div>
 
 ## Blog
-- Blog : [My Github Blog](https://daedaem.github.io.)
+- Blog : [My Github Blog](https://daedaem.netlify.app/)
 - Portfolio : [Portfolio](https://daedaem.github.io/portfoilo/)
 - Notion : https://bit.ly/3oSrIS1
 ---
