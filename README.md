@@ -48,18 +48,25 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
+        <td align="center" width="96">
+      <a>
+        <img src="  https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
+      </a>
+      <br>C
+    </td>
+        <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
-      </a>
-      <br>Python
-    </td>
+
   </tr>
 </table>
 
