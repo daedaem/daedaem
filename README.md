@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <tr>
         <td align="center" width="96">
       <a>
-        <img src="  https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
       </a>
       <br>C
     </td>
