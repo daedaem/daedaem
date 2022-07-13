@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-# Hi, I'm JOE 👋
-  
+# Hi, I'm Hae-sung Joe 👋
+- 🔭 I’m currently working on ... SAMSUNG SCSA
+- 🌱 I’m currently learning ... Embedded system, Blockchain, Web Frontend develop
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: ...
+
 ## ☎️ Contact info.
 
 **📧 Email address**
