@@ -54,6 +54,11 @@ Here are some ideas to get you started:
       </a>
       <br>C
     </td>
+          <a>
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40"/>
+      </a>
+      <br>C++
+    </td>
         <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
