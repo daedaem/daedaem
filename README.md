@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       </a>
       <br>C
     </td>
-          <a>
+      <a>
         <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40"/>
       </a>
       <br>C++
