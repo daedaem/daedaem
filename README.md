@@ -176,6 +176,12 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<h2>📃 BOJ / Solved.ac</h2>
+
+* BOJ : [tg8685](https://www.acmicpc.net/user/tg8685)
+* Solved.ac : [tg8685](https://solved.ac/profile/tg8685) 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685)](https://solved.ac/tg8685/)
 
 ## 📈 Github_Stats
 
