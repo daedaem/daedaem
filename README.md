@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## About Me
 # Hi, I'm Hae-sung Joe 👋
 ## ☎️ Contact info.
 
@@ -43,19 +41,13 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-        <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
-      </a>
-      <br>C
-    </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
       </a>
-      <br>C++
+      <br>JavaScript
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
       </a>
@@ -63,11 +55,10 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40"/>
       </a>
-      <br>JavaScript
+      <br>C++
     </td>
-
   </tr>
 </table>
 
