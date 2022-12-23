@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 
 ## About Me
 # Hi, I'm Hae-sung Joe 👋
-- 🔭 I’m currently working on ... SAMSUNG SCSA
-- 🌱 I’m currently learning ... Embedded Software, C, C++
-- 🤔 I’m interested in ... Blockchain, Web Frontend, AI
-- 💬 Ask me about ... Anything
-
 ## ☎️ Contact info.
 
 **📧 Email address**
