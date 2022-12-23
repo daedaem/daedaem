@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 [tg8685@gmail.com](mailto:tg8685@gmail.com)
 
-[201826888@snu.ac.kr](mailto:201826888@snu.ac.kr)
-
 **📱 Phone No.**
 
 +821044498685
@@ -28,9 +26,6 @@ Here are some ideas to get you started:
 **📷 instagram**
 
 [@ sun_castle_8685](http://www.instagram.com/sun_castle_8685)
-
-  </div>
-  </div>
 
 ## Blog
 - Blog : [My Github Blog](https://daedaem.netlify.app/)
