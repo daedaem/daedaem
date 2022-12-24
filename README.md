@@ -163,12 +163,6 @@ Here are some ideas to get you started:
 * Solved.ac : [tg8685](https://solved.ac/profile/tg8685)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685)](https://solved.ac/tg8685)
-
-## 📈 Github_Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daedaem&theme=vue&langs_count=15&layout=compact&hide_border=true)
-
-
 ---
 
 Credit: [daedaem](https://github.com/daedaem)  
