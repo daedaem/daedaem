@@ -12,16 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Hae-sung Joe 👋
+# 안녕하세요, 개발자 조해성입니다. 👋
+
+
 ## ☎️ Contact info.
 
 **📧 Email address**
 
 [tg8685@gmail.com](mailto:tg8685@gmail.com)
-
-**📱 Phone No.**
-
-+821044498685
 
 **📷 instagram**
 
@@ -38,94 +36,84 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40" height="40"/>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40" height="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40"/>
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/>
       </a>
       <br>C++
     </td>
   </tr>
 </table>
 
-**Frameworks & Libraries**
+**FrontEnd Skills**
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40"/ alt="Vuejs" />
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/ alt="Vuejs" />
       </a>
       <br>Vue.js
     </td>
-      <td align="center" width="96">
-      <a href="#Django">
-              <img width="40"/ src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
-      </a>
-      <br>NodeJS
-    </td>
-  </tr>
-</table>
-
-
-**Markup & Stylesheet**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40" height="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40" height="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40" height="40"/>
       </a>
       <br>SASS
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" height="40"/>
       </a>
       <br>Bootstrap
     </td>
-  </tr>
-</table>
-
-**Graphic Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="40" height="40"/>
       </a>
       <br>Figma
     </td>
   </tr>
 </table>
 
+**BackEnd Skills**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Django">
+      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg' width="40" height="40">
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" height="40"/>
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>
+</table>
 
 **Other Tools**
 
