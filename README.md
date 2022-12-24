@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 </table>
 
 **Frameworks & Libraries**
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -72,12 +71,6 @@ Here are some ideas to get you started:
               <img width="40"/ src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
       </a>
       <br>Django
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a>
@@ -111,11 +104,11 @@ Here are some ideas to get you started:
       </a>
       <br>SASS
     </td>
-    <td align="center" width="96">
+        <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
       </a>
-      <br>Markdown
+      <br>Bootstrap
     </td>
   </tr>
 </table>
@@ -124,12 +117,6 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td>
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
@@ -164,5 +151,3 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tg8685)](https://solved.ac/tg8685)
 ---
-
-Credit: [daedaem](https://github.com/daedaem)  
