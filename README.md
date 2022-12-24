@@ -137,11 +137,12 @@ Here are some ideas to get you started:
   </a>
       <br>Git
     </td>
-     <td align="center" width="96">
-       <img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">         
-         <br>Gitlab
+         <td align="center" width="96">
+       <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40">         
+         <br>Jira
       </td>
   </tr>
+  
 </table>
 
 <h2>📃 BOJ / Solved.ac</h2>
