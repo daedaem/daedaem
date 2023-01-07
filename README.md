@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/>
       </a>
       <br>Bootstrap
     </td>
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="40" height="40"/>
       </a>
       <br>NodeJS
     </td>
