@@ -36,19 +36,19 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40" height="40"/>
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/>
       </a>
       <br>C++
     </td>
@@ -72,25 +72,25 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/>
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" width="40" height="40"/>
       </a>
       <br>SASS
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/>
       </a>
       <br>Bootstrap
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" width="40" height="40"/>
       </a>
       <br>Figma
     </td>
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" width="40" height="40"/>
       </a>
       <br>NodeJS
     </td>
