@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
       </a>
       <br>HTML
     </td>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
       </a>
       <br>Figma
     </td>
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg" width="40" height="40"/>
+        <img src="[https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-ar21.svg](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)" width="40" height="40"/>
       </a>
       <br>NodeJS
     </td>
