@@ -60,6 +60,12 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#vuejs">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/ alt="React" />
+      </a>
+      <br>React
+    </td>
+        <td align="center" width="96">
+      <a href="#vuejs">
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/ alt="Vuejs" />
       </a>
       <br>Vue.js
