@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
       </a>
       <br>Python
     </td>
