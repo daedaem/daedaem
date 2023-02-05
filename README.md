@@ -112,12 +112,6 @@ Here are some ideas to get you started:
       </a>
       <br>Django
     </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" width="40" height="40"/>
-      </a>
-      <br>NodeJS
-    </td>
   </tr>
 </table>
 
