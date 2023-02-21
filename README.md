@@ -42,15 +42,15 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/>
       </a>
       <br>C++
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
+      </a>
+      <br>Python
     </td>
   </tr>
 </table>
@@ -59,13 +59,13 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#vuejs">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/ alt="React" />
       </a>
       <br>React
     </td>
         <td align="center" width="96">
-      <a href="#vuejs">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/ alt="Vuejs" />
       </a>
       <br>Vue.js
