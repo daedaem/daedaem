@@ -66,6 +66,12 @@ Here are some ideas to get you started:
     </td>
         <td align="center" width="96">
       <a>
+        <img src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" width="40" height="40"/ alt="Redux" />
+      </a>
+      <br>Redux/Redux Toolkit
+    </td>
+        <td align="center" width="96">
+      <a>
         <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/ alt="Vuejs" />
       </a>
       <br>Vue.js
