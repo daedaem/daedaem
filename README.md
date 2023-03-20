@@ -42,6 +42,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a>
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40" height="40"/>
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a>
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/>
       </a>
       <br>C++
