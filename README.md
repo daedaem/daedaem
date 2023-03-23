@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - Blog : [My Github Blog](https://daedaem.netlify.app/)
 - Portfolio : [Portfolio](https://daedaem.github.io/)
 - Notion : https://bit.ly/3oSrIS1
+- TIL: https://www.notion.so/201826888/33fe3fc44cc448ec94c8921d8ed01660?v=6f6887ade9064200ad2033b72777bdf2&pvs=4
 ---
 **Programming Languages**
 
@@ -51,12 +52,6 @@ Here are some ideas to get you started:
         <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40" height="40"/>
       </a>
       <br>C++
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
-      </a>
-      <br>Python
     </td>
   </tr>
 </table>
@@ -119,10 +114,16 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#Django">
-      <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg' width="40" height="40">
+      <a href="#Node.js">
+      <img src ='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg' width="40" height="40">
       </a>
-      <br>Django
+      <br>Node.js
+    </td>
+      <td align="center" width="96">
+      <a href="#MongoDB">
+      <img src ='https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-icon.svg' width="40" height="40">
+      </a>
+      <br>MongoDB
     </td>
   </tr>
 </table>
