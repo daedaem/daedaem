@@ -120,6 +120,12 @@ Here are some ideas to get you started:
       <br>Node.js
     </td>
       <td align="center" width="96">
+      <a href="#Express">
+      <img src ='https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg' width="40" height="40">
+      </a>
+      <br>Express
+    </td>
+      <td align="center" width="96">
       <a href="#MongoDB">
       <img src ='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' width="40" height="40">
       </a>
