@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     </td>
       <td align="center" width="96">
       <a href="#MongoDB">
-      <img src ='https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-icon.svg' width="40" height="40">
+      <img src ='https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg' width="40" height="40">
       </a>
       <br>MongoDB
     </td>
