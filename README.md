@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Blog : [My Github Blog](https://daedaem.netlify.app/)
 - Portfolio : [Portfolio](https://daedaem.github.io/)
 - Notion : https://bit.ly/3oSrIS1
-- TIL: https://www.notion.so/201826888/33fe3fc44cc448ec94c8921d8ed01660?v=6f6887ade9064200ad2033b72777bdf2&pvs=4
+- TIL: http://bit.ly/3ZbQpYm
 ---
 **Programming Languages**
 
