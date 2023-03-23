@@ -95,7 +95,7 @@
   </tr>
 </table>
 
-**BackEnd Skills**
+<!-- **BackEnd Skills**
 <table>
   <tr>
     <td align="center" width="96">
@@ -117,7 +117,7 @@
       <br>MongoDB
     </td>
   </tr>
-</table>
+</table> -->
 
 **Other Tools**
 
