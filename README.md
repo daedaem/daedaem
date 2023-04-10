@@ -82,12 +82,6 @@
     </td>
         <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-        <td align="center" width="96">
-      <a>
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
       </a>
       <br>Figma
